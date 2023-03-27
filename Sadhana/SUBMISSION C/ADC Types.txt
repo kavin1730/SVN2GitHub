@@ -7,3 +7,8 @@ Sampling rate = 50
 No of Bits = 1
 No of Channels = 2
 Sampling rate = 100
+
+[ADC 3]
+No of Bits = 3
+No of Channels = 5
+Sampling rate = 100
