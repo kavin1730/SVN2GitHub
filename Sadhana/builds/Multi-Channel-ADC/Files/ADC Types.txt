@@ -1,0 +1,14 @@
+[ADC 1]
+No of Bits = 2    
+No of Channels = 2    
+Sampling rate = 50    
+
+[ADC 2]
+No of Bits = 1
+No of Channels = 2
+Sampling rate = 50
+
+[ADC 3]
+No of Bits = 2
+No of Channels = 1
+Sampling rate = 50
